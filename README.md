@@ -1,4 +1,4 @@
-Socket Paste
+Socket-Paste
 
 A basic command-line based implementation of a Pastebin server.
 
